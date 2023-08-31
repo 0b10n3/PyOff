@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pyout"
+version = "0.1.0"
+description = "A python package to make options payout charts."
+authors = ["Ob1On3 <silvasmath@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
