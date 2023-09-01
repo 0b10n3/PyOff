@@ -1,2 +1,2 @@
-# PyOut
-A python package to make options payout. 
+# PyOff
+A python package to make options payoff. 
