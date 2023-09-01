@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "pyout"
+name = "pyoff"
 version = "0.1.0"
-description = "A python package to make options payout charts."
+description = "A python package to make options payoff charts."
 authors = ["Ob1On3 <silvasmath@gmail.com>"]
 license = "MIT"
 readme = "README.md"
